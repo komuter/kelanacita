@@ -7,10 +7,11 @@ layout: layouts/base.njk
 
 ## Last Project
 - https://komuter.id
+
 ## Get in Touch
-Kinanti Building
-Epicentrum Tengah No. 3
-Jakarta Selatan 12920
+Kinanti Building -
+Epicentrum Tengah No. 3 -
+Jakarta Selatan 12920 -
 Indonesia
 
 <a href="mailto: hello@kelanacita.id">hello@kelanacita.id</a> -
