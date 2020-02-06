@@ -8,7 +8,7 @@ KCB is an innovation consulting, design and digital product development firm pro
 Over 20 years of global experience, our professionals team strives to deliver services, quality and speed of product development. With our unique blend of service experience and technology, we never compromise on the reliable and time-proven development methodologies that ensure successful, robust and scalable solutions.
 
 ## Last Project
-- <a href="https://kelanacita.id/">https://komuter.id</a>
+- <a href="https://komuter.id">https://komuter.id</a>
 
 ## Get in Touch
 Kinanti Building  
