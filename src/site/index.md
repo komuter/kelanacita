@@ -1,6 +1,5 @@
 ---
 title: Kelana Cita Bimasakti
-subtitle: KCB is an innovation consulting, design and digital product development firm providing advisory and hands-on execution support to established corporations and promising start-up companies. We believe great solutions are made out of stunning design and cutting-edge technology.
 layout: layouts/base.njk
 ---
 
