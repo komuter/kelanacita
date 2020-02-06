@@ -1,6 +1,7 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: KelanaCita
+subtitle: KCB is an innovation consulting, design and digital product development firm providing advisory and hands-on execution support to established corporations and promising start-up companies. We believe great solutions are made out of stunning design and cutting-edge technology.
+Over 20 years of global experience, our professionals team strives to deliver services, quality and speed of product development. With our unique blend of service experience and technology, we never compromise on the reliable and time-proven development methodologies that ensure successful, robust and scalable solutions.
 layout: layouts/base.njk
 ---
 
@@ -84,7 +85,3 @@ Netlify's Redirects API can provide friendlier URLs as proxies to these URLs.
 
 - [/api/hello](/api/hello)
 - [/api/fetch-joke](/api/fetch-joke)
-
-
-
-
